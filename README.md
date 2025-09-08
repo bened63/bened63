@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ben!
 
 Welcome to my GitHub profile!  
-Here you'll find a collection of innovative projects, creative experiments, and my journey as a developer, designer, and technologist.
+I’m a seasoned Unity Developer with 7+ years of experience, passionate about building innovative games and interactive experiences.
 
 ---
 
@@ -14,29 +14,31 @@ Here you'll find a collection of innovative projects, creative experiments, and 
 
 ## 💡 About Me
 
-Passionate about blending creativity and technology.  
-I love building projects that challenge norms and inspire curiosity.
+I specialize in Unity development, focusing on performance and scalability using ECS and DOTS.  
+My core interests revolve around game design, interactive storytelling, and pushing the boundaries of what games can be.
+
+---
+
+## 🛠️ Skills & Technologies
+
+- **Unity** (7+ years)
+- **ECS & DOTS** (Entity Component System, Data-Oriented Technology Stack)
+- **UI/UX Design**
+- **Game Development**
+
+---
+
+## 🌱 Currently Exploring
+
+- New gameplay mechanics and systems
+- Advanced Unity workflows
+- Collaborative open-source game projects
 
 ---
 
 ## 📫 How to Reach Me
 
 - GitHub: [bened63](https://github.com/bened63)
-
----
-
-## 🛠️ Skills & Interests
-
-- Coding, design, and storytelling
-- Experimenting with new technologies and frameworks
-- Bringing ideas to life with code
-
----
-
-## 🌱 Currently Exploring
-
-- Creative coding challenges
-- Collaborative open-source projects
 
 ---
 
