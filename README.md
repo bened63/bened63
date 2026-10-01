@@ -8,7 +8,7 @@ I’m a seasoned Unity Developer with 7+ years of experience, passionate about b
 ## 🚀 Featured Projects
 
 - [DontLookAtMe_Remastered](https://github.com/bened63/DontLookAtMe_Remastered)  
-  A remastered creative project challenging perception.
+  A remastered creative project challenging perception, originally created in 2015 in collaboration with fellow students at LMU Munich.
 
 ---
 
