@@ -1,18 +1,18 @@
-# 👋 Hi, I'm Ben!
+# Hi, I'm Ben!
 
 Welcome to my GitHub profile!  
 I’m a seasoned Unity Developer with 7+ years of experience, passionate about building innovative games and interactive experiences.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 - [DontLookAtMe_Remastered](https://github.com/bened63/DontLookAtMe_Remastered)  
   A remastered creative project challenging perception, originally created in 2015 in collaboration with fellow students at LMU Munich.
 
 ---
 
-## 💡 About Me
+## About Me
 
 I specialize in Unity development, focusing on performance and scalability using ECS and DOTS.  
 My core interests revolve around game design, interactive storytelling, and pushing the boundaries of what games can be.
@@ -28,7 +28,7 @@ My core interests revolve around game design, interactive storytelling, and push
 
 ---
 
-## 🌱 Currently Exploring
+## Currently Exploring
 
 - New gameplay mechanics and systems
 - Advanced Unity workflows
@@ -36,13 +36,13 @@ My core interests revolve around game design, interactive storytelling, and push
 
 ---
 
-## 📫 How to Reach Me
+## How to Reach Me
 
 - GitHub: [bened63](https://github.com/bened63)
 
 ---
 
-## ✨ Thanks for visiting!
+## Thanks for visiting!
 
 Feel free to check out my projects, star your favorites, or get in touch!
 
